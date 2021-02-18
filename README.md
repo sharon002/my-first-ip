@@ -8,3 +8,6 @@ Sharon Kemboi.
  Open github, click on my first ip then click on my first ip link.
 
 # Github
+
+# Technologies used
+  HTML and CSS.

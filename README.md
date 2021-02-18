@@ -11,3 +11,6 @@ Sharon Kemboi.
 
 # Technologies used
   HTML and CSS.
+
+# MIT License
+Copyright (c) 2021 Sharon Kemboi.

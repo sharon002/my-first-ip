@@ -1,24 +1,24 @@
 body{
-margin: 0;
-padding:0 ;
-background-color: gray ;
-font-family: Arial, Helvetica, sans-serif;
-background-position: center;
-}
-h1{
+    margin: 0;
+    padding:0 ;
+    background-color: gray ;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    h1{
     text-decoration:underline;
     text-transform:uppercase ;
     text-align: center;
     color: rgb(57,0,255,0.4);
     font-style: italic;
     text-decoration: underline;
-
-}
-.maun1{
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-text-decoration: unset;
-}
-.main2{
     
-
-}
+    }
+    .maun1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: unset;
+    }
+    
+    .main3{
+    background-image: url("https://wallpapercave.com/wp/wp1920779.jpg");
+    }
+    
